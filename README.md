@@ -1,6 +1,6 @@
 # 👋 Hello, I'm VC_Sophea
 
-### Contact
+**Contact Me**
 
 <p align="start">
   <a href="mailto:ven.chuonsophea@gmail.com">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## About Me
+**About Me**
 
 - 🔭 I'm passionate about learning new things 🔍
 - 🌱 I’m currently working towards making a big impact 💼
@@ -29,7 +29,7 @@
 - 🌱 I excel in problem-solving and value personal growth 🌱
 - 🎮 I enjoy gaming 🎮, workout 💪, reading 📚, and coding 💻!
 
-## Skills
+**Skills**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,10 +51,10 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## GitHub Stats
+**GitHub Stats**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## Support Me
+**Support Me**
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/VC_Sophea)
