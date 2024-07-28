@@ -2,20 +2,20 @@
 
 **Contact Me**
 
-<p align="start">
-  <a href="mailto:ven.chuonsophea@gmail.com" style="border: none;">
+<div>
+  <a href="mailto:ven.chuonsophea@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/ven-chuonsophea-523474295" style="border: none;">
+  <a href="https://linkedin.com/in/ven-chuonsophea-523474295">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/imPhea" style="border: none;">
+  <a href="https://github.com/imPhea">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://t.me/VCSophea" style="border: none;">
+  <a href="https://t.me/VCSophea">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-</p>
+</div>
 
 **About Me**
 
