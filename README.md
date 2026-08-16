@@ -6,14 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=4FD6C4&center=true&vCenter=true&width=600&lines=whoami+%3E+Ven+Chuonsophea;Building+with+React+%2B+Vue+%2B+Java+Spring;Always+learning+something+new;Open+to+collaborate+on+real+projects" alt="Typing SVG" />
 </a>
 
-<br>
-
 <img src="https://img.shields.io/badge/📍-Phnom%20Penh,%20Cambodia-e8b339?style=flat-square" alt="Location">
 <img src="https://img.shields.io/badge/Positive%20Thinking%20!!-4fd6c4?style=flat-square" alt="Motto">
 
 </div>
-
-<br>
 
 ## 👋 About Me
 
@@ -23,8 +19,6 @@
 - 🤝 Interested in collaborating with other developers 🤝
 - 🧩 I excel in problem-solving and value personal growth 🌱
 - 🎮 I enjoy gaming, workout 💪, reading 📚, and coding 💻!
-
-<br>
 
 ## 📫 Contact Me
 
@@ -46,24 +40,17 @@
   </a>
 </p>
 
-<br>
-
 ## 🛠️ Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vue,java,spring,express,mysql,postgres,firebase,git,docker,postman,github,gitlab,figma&theme=dark" alt="Skills" />
 </p>
 
-<br>
-
 ## ☕ Support Me
 
 <a href="https://buymeacoffee.com/venchuonsor">
   <img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
 </a>
-
-<br>
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8b339,100:4fd6c4&height=100&section=footer" width="100%"/>
 
