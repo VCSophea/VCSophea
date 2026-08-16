@@ -9,7 +9,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/📍-Phnom%20Penh,%20Cambodia-e8b339?style=flat-square" alt="Location">
-<img src="https://img.shields.io/badge/Positive%20Thinking%20!!-4fd6c4?style=flat-square" alt="Motto">
 
 </div>
 
